@@ -1,0 +1,7 @@
+echo "# sneat-html-laravel-admin-template-free-nguyenhaiquang" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/haiquang110/sneat-html-laravel-admin-template-free-nguyenhaiquang.git
+git push -u origin main
